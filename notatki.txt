@@ -1,2 +1,2 @@
-cztery linijki tekstu do gita 
+trzecia linijki tekstu do gita 
 dodatkowa linijka tekstu
