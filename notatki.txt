@@ -1,2 +1,6 @@
+HEAD
 trzecia linijki tekstu do gita 
+
+druga linijka tekstu do gita
+poprawka
 dodatkowa linijka tekstu
